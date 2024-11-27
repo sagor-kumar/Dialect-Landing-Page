@@ -287,6 +287,10 @@
         gap: 10px;
     }
 
+    .dropdown {
+        margin-left: 25px;
+    }
+
     .footer-link {
         word-wrap: break-word;
     }
